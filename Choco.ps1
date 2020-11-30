@@ -1,0 +1,1 @@
+﻿choco install autoruns cpu-z darktable nmap openshot paint.net peazip TcpView vlc windirstat wireshark -y
